@@ -6,7 +6,7 @@ for( let i = 0; i < colors.length; i++){
     reversed.unshift(colors[i]);
     
 }
-console.log(reversed);
+console.log(reversed);  //console ta k for {} er baire rakhte hoy nahole ans ase na
 
 
 // for(let i = colors.length-1; i >= 0; i--){
